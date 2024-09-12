@@ -1,0 +1,143 @@
+body {
+    background-color: #8abae5; 
+    color: #000000; 
+    font-family: Arial, sans-serif;
+    background-image: -moz-linear-gradient();
+}
+h1 {
+    text-align: center;
+    color: #2e8b57; 
+    background-color: #1e5c8c;
+    border-radius: 15px;
+}
+
+P{
+    background-color: #2e8b57;
+    border-radius: 15px;
+    text-align: center;
+    font-size: large;
+}
+
+
+h2 {
+    color: #4682b4; 
+    
+}
+#imagen1{
+float: right;
+margin-left: 30px;
+width: 280px;
+background-color: #027bb3; 
+border: 2px solid #ccc; 
+padding: 10px;
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+border-radius: 15px; 
+}
+
+figure {
+    float: left;
+    margin-left: 30px; 
+    width: 300px; 
+}
+
+figcaption {
+    text-align: center; 
+    font-size: smaller; 
+    color: #000000; 
+}
+
+ol li {
+    margin-bottom: 10px;
+}
+
+
+ol {
+    background-color: #0b5d72; 
+    padding: 30px;
+    margin-left: 340;
+    border-radius: 15px; 
+    text-align: left;
+    
+}
+
+
+p {
+    line-height: 1.6; 
+}
+
+hr {
+    border: none; 
+    height: 5px; 
+    background-color: #2e8b57; 
+    margin: 20px 0; 
+    width: 100%;
+    margin-left: 0; 
+    margin-right: 0; 
+}
+.contenedor-gifs{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+align-items: center;
+}
+.contenedor-gifs img {
+width: 200px;
+margin: 10px;
+}
+
+.contenedor-gifs figure {
+margin: 20px; 
+}
+
+figcaption {
+text-align: center;
+font-size: smaller;
+}
+
+#gif1{
+position: left;
+float: right;
+margin-left: 30px;
+width: 280px;
+background-color: #7b179f; 
+border: 2px solid #ccc; 
+padding: 10px;
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+
+#gif2{
+position: left;
+float: left;
+margin-right: 30px;
+width: 300px;
+background-color: #cb51f8; 
+border: 2px solid #ccc; 
+padding: 10px;
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+
+#gif3{
+position: left;
+float: left;
+margin-right: 30px;
+width: 300px;
+background-color: #281535; 
+border: 2px solid #ccc; 
+padding: 10px;
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+
+#AMOGUS{
+position: relative;
+float: left;
+margin-right: 30px;
+width: 300px;
+background-color: #f7f741; 
+border: 2px solid #ccc; 
+padding: 10px;
+box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
